@@ -1,4 +1,4 @@
-# Booste la notoriété de ta formations 🚀✨, Gagne en visibilité/ Découvres les formations du moment.
+# Booste la notoriété de ta(tes) formation(s) 🚀✨, Gagnes en visibilité/ Découvres les formations du moment.
 
  ## Status: 🚨🚧
 
