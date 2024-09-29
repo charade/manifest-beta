@@ -12,7 +12,7 @@
 **Crée ton compte**
 ![manifest-login-signup-slide-2](./login_signup_2.png)
 
-### Une interface intuitive pour pour rechercher ta formation
+### Une interface intuitive pour trouver ta formation
 ![manifest-home-slide-1](./home_slide1.png)
 ![manifest-home-slide-2](./home_slide2.png)
 ![manifest-home-slide-3](./home_slide3.png)
