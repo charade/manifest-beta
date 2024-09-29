@@ -25,5 +25,5 @@
 **Gères tes formations**
 ![manifest-create-training](./manage_trainings.png)
 
-**Plus de features pour simplifier ton apprentissage ou le partage de tes formation::** En cours 🚧
+**Plus de features pour simplifier ton apprentissage ou le partage de tes formation::** En cours 👨‍💻
  
