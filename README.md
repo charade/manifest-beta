@@ -1,7 +1,9 @@
 # Booste la notoriété de ta(tes) formation(s) 🚀✨, Gagnes en visibilité/ Découvres les formations du moment.
 
 **⏳ Status:**: 🚨🚧
+
 **🕑 Last update: 02/10/2024**
+
 ### Gestion de Compte et rôle
 
 *Formateur ou apprenant ?*
